@@ -1,4 +1,4 @@
-# Movie-Viewer
+# Imgur-UWP
 UWP application for Imgur using the official API. Realized during the Epicture project at Epitech.
 
 Compatible with Windows 32 and 64bits.
